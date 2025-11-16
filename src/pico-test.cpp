@@ -497,7 +497,7 @@ static void deploy_cmd_func() {
 }
 
 static void hello_cmd_func() {
-    printf("Hello, world!\n");
+    printf("Hello, Madgwick!\n");
 }
 
 #if (DEBUG == 1)
